@@ -1,3 +1,3 @@
 # peg_solitaire
 
-A program that recursively plays until the game is over.
+A program which recursively plays the "Peg Solitaire" game, until the game is over.
